@@ -1,0 +1,13 @@
+
+MODEL: 
+  NB: data/models/naive_bayes.pkl
+  LR : data/models/logistic_regression.pkl
+
+VECTORS:
+  BOW: data/vector/bow_vector.pkl
+  SCHOOL_STATE : data/vector/school_state_vector.pkl
+  CLEAN_CATEGORIES : data/vector/clean_categories.pkl
+  CLEAN_SUBCATEGORIES : data/vector/clean_subcategories.pkl
+  PROJECT_GRADE_CATEGORY : data/vector/project_grade_category.pkl
+  TEACHER_NUMBER_OF_PREVIOUSLY_POSTED_PROJECTS : data/vector/teacher_number_of_previously_posted_projects.pkl
+  TEACHER_PREFIX : data/vector/teacher_prefix_vector.pkl
